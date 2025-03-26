@@ -21,7 +21,7 @@ Transferindo os dados de temperatura através do equipamento Milk_Diagnostic (ap
 ### Objective:
 - In this project, we will perform a sentiment analysis of data published on X (Twitter), in real time, relating to stock market quotes. This analysis can be passed on to our investors, through sentiment percentages, whether the messages about the quotes present a positive or negative trend for the subject in question.
 
-- Nesse projeto vamos fazer uma análise de sentimentos de dados publicados no X (twitter), em tempo real, relativo às cotações da bolsa de valores. Essa análise vai poder passar para nossos investidores, através dos percentuais de sentimentos, se as postagens sobre as cotações, apresentam uma tendência positiva ou negativa para o assunto tratado.
+- Nesse projeto vamos fazer uma análise de sentimento de dados publicados no X (twitter), em tempo real, relativo às cotações da bolsa de valores. Essa análise vai poder passar para nossos investidores, através dos percentuais de sentimento, se as postagens sobre as cotações, apresentam uma tendência positiva ou negativa para o assunto tratado.
 
 ### Data Origin:
 - Dataset: financial_tweets.csv
